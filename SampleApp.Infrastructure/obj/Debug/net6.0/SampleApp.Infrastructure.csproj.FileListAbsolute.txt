@@ -1,0 +1,17 @@
+F:\Tests\SampleApp.Infrastructure\bin\Debug\net6.0\SampleApp.Infrastructure.deps.json
+F:\Tests\SampleApp.Infrastructure\bin\Debug\net6.0\SampleApp.Infrastructure.runtimeconfig.json
+F:\Tests\SampleApp.Infrastructure\bin\Debug\net6.0\SampleApp.Infrastructure.dll
+F:\Tests\SampleApp.Infrastructure\bin\Debug\net6.0\SampleApp.Infrastructure.pdb
+F:\Tests\SampleApp.Infrastructure\bin\Debug\net6.0\SampleApp.Core.dll
+F:\Tests\SampleApp.Infrastructure\bin\Debug\net6.0\SampleApp.Core.pdb
+F:\Tests\SampleApp.Infrastructure\obj\Debug\net6.0\SampleApp.Infrastructure.csproj.AssemblyReference.cache
+F:\Tests\SampleApp.Infrastructure\obj\Debug\net6.0\SampleApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tests\SampleApp.Infrastructure\obj\Debug\net6.0\SampleApp.Infrastructure.AssemblyInfoInputs.cache
+F:\Tests\SampleApp.Infrastructure\obj\Debug\net6.0\SampleApp.Infrastructure.AssemblyInfo.cs
+F:\Tests\SampleApp.Infrastructure\obj\Debug\net6.0\SampleApp.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Tests\SampleApp.Infrastructure\obj\Debug\net6.0\SampleApp.Infrastructure.csproj.CopyComplete
+F:\Tests\SampleApp.Infrastructure\obj\Debug\net6.0\SampleApp.Infrastructure.dll
+F:\Tests\SampleApp.Infrastructure\obj\Debug\net6.0\refint\SampleApp.Infrastructure.dll
+F:\Tests\SampleApp.Infrastructure\obj\Debug\net6.0\SampleApp.Infrastructure.pdb
+F:\Tests\SampleApp.Infrastructure\obj\Debug\net6.0\SampleApp.Infrastructure.genruntimeconfig.cache
+F:\Tests\SampleApp.Infrastructure\obj\Debug\net6.0\ref\SampleApp.Infrastructure.dll
